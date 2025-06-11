@@ -11,7 +11,7 @@ Users can specify the name of the packed file for unpacking. The application ext
 
 ## 💡 Features
 
-- ✅ Packs all `.txt` files from a specified directory into a single packed file
-- ✅ Extracts packed files back to their original state
-- ✅ Displays clear and informative status messages
-- ✅ Implements custom file headers for accurate unpacking
+- ✅ Packs all `.txt` files from a specified directory into a single packed file.
+- ✅ Extracts packed files back to their original state.
+- ✅ Displays clear and informative status messages.
+- ✅ Implements custom file headers for accurate unpacking.
